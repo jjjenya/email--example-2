@@ -1,2 +1,9 @@
 # mail-example--2
-пример
+**письмо Transistore:**
+
+—  адаптивное
+
+—  outlook
+
+—  hover-элементы
+
